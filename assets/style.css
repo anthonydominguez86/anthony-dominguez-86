@@ -1,0 +1,23 @@
+*{
+    background-image: url("web background.png");
+}
+.navbar-dark {
+    background: fixed;
+    border: none;
+    width: auto;
+    }   
+.container {
+    width: 60%;
+}
+
+h1{
+    color: white;
+    padding: 20px;    
+    }
+
+body{
+    color: white;
+    }
+
+
+    
