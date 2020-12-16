@@ -7,11 +7,21 @@
     width: auto;
     }  
 
-.container {
-    width: 60%;
+section {
+    width: 800px;
+    padding-left: 200px;
 }
 
-h1{
+form {
+    padding-left: 200px;
+    width: 800px
+}
+
+input {
+    color: white;
+}
+
+h1 {
     color: white;
     padding: 20px;    
     }
@@ -20,3 +30,60 @@ body{
     color: white;
     }
 
+    @media screen and (max-width: 992px) {
+        
+        body {
+          background-color: #333;
+        }
+      
+        section,
+        form
+         {
+          width: 100%;
+          padding: 20px;
+        }
+      
+        h1, 
+        body {
+          width: 100%;
+        }
+      }
+            
+      @media screen and (max-width: 768px) {
+        
+        body {
+            background-color: #333;
+          }
+        
+          section,
+          form
+           {
+            width: 100%;
+            padding: 20px;
+          }
+        
+          h1, 
+          body {
+            width: 100%;
+          }
+        }
+      
+      @media screen and (max-width: 400px) {
+        
+        body {
+            background-color: #333;
+          }
+        
+          section, 
+          form
+           {
+            width: 100%;
+            padding: 20px;
+          }
+        
+          h1, 
+          body {
+            width: 100%;
+          }
+        }
+      
