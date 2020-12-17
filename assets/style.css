@@ -1,88 +1,98 @@
-*{
-    background-image: url("web background.png");
+body {
+  background-image: url("web background.png");
 }
 .navbar-dark {
-    background: fixed;
-    border: none;
-    width: auto;
-    }  
+  background: fixed;
+  border: none;
+  width: auto;
+}  
 
 section {
-    width: 800px;
-    padding-left: 200px;
+  width: 800px;
+  padding-left: 100px;
+  padding-right: 100px;
+  background-color:white;
 }
 
 form {
-    padding-left: 200px;
-    width: 800px
+  margin: 100px;
+  padding: 30px;
+  width: 500px;
+  background-color:white;
 }
-
-input {
-    color: white;
-}
-
 h1 {
-    color: white;
-    padding: 20px;    
-    }
+  color: black;
+  padding: 10px;    
+}
 
 body{
-    color: white;
-    }
+  color:black;
+}
+
+#inputMessage {
+  height: 100px;
+}
+
+footer {
+  background-color:white;
+  position: sticky;
+  bottom: 0;
+  width: 100%;
+}
 
     @media screen and (max-width: 992px) {
         
-        body {
-          background-color: #333;
-        }
-      
         section,
-        form
+        form,
+        footer,
+        #inputMessage
          {
           width: 100%;
-          padding: 20px;
+          padding: 10px;
+          margin: 5px;
         }
       
         h1, 
-        body {
+        body
+         {
           width: 100%;
         }
       }
             
       @media screen and (max-width: 768px) {
         
-        body {
-            background-color: #333;
-          }
-        
           section,
-          form
+          form,
+          footer,
+          #inputMessage
            {
             width: 100%;
-            padding: 20px;
+            padding: 10px;
+            margin: 5px;
           }
         
           h1, 
-          body {
+          body
+          {
             width: 100%;
           }
         }
       
       @media screen and (max-width: 400px) {
         
-        body {
-            background-color: #333;
-          }
-        
           section, 
-          form
+          form,
+          footer,
+          #inputMessage
            {
             width: 100%;
-            padding: 20px;
+            padding: 10px;
+            margin: 5px;
           }
         
           h1, 
-          body {
+          body
+          {
             width: 100%;
           }
         }
