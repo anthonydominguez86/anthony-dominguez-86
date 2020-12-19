@@ -21,6 +21,6 @@ What I took from this assignment was alot of information and alot of styling poi
 Screenshots are provided as a reference in the `assets/screenshots` folder.
 
 ## Links to deployment 
-https://anthonydominguez86.github.io/anthony-dominguez-86/contact.html
-https://anthonydominguez86.github.io/anthony-dominguez-86/index.html
-https://anthonydominguez86.github.io/anthony-dominguez-86/portfolio.html
+* https://anthonydominguez86.github.io/anthony-dominguez-86/contact.html
+* https://anthonydominguez86.github.io/anthony-dominguez-86/index.html
+* https://anthonydominguez86.github.io/anthony-dominguez-86/portfolio.html
