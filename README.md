@@ -17,4 +17,10 @@ In this assignment I learned multiple styling attributes as well as the way to i
 ## Takeaways:
 What I took from this assignment was alot of information and alot of styling points about css and jquery. It helped me to understand how and why these are used to help develop more compatible and user freindly websites. This is a big thing to make sure your website is at the top of the search and also works well on all formats and/or browsers. Also I tackled the first part of the bonus and successfully made a sticky footer for all of my pages. 
 
-*Screenshots are provided as a reference in the `assets/screenshots` folder.
+## Screenshots 
+Screenshots are provided as a reference in the `assets/screenshots` folder.
+
+## Links to deployment 
+https://anthonydominguez86.github.io/anthony-dominguez-86/contact.html
+https://anthonydominguez86.github.io/anthony-dominguez-86/index.html
+https://anthonydominguez86.github.io/anthony-dominguez-86/portfolio.html
