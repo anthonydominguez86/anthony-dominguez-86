@@ -19,9 +19,11 @@ What I took from this assignment was a lot of information and a lot of styling p
 
 ## Screenshots 
 
-<img width="1440" alt="Screen Shot 2021-02-13 at 9 08 58 AM" src="https://user-images.githubusercontent.com/73844796/107851999-dee8db80-6ddb-11eb-9ef3-df4ec24bfa76.png">
+<img width="1440" alt="index" src="https://user-images.githubusercontent.com/73844796/114194337-61de6c00-991d-11eb-822c-2a5b9cf159b1.png">
 
-<img width="1440" alt="Screen Shot 2021-02-13 at 9 10 19 AM" src="https://user-images.githubusercontent.com/73844796/107852006-ee682480-6ddb-11eb-9dac-8ac483a4032c.png">
+<img width="1440" alt="contact" src="https://user-images.githubusercontent.com/73844796/114194350-630f9900-991d-11eb-8d56-6ec03212892d.png">
+
+<img width="1440" alt="portfolio" src="https://user-images.githubusercontent.com/73844796/114194358-6440c600-991d-11eb-8b82-49d1c4ab0faa.png">
 
 Screenshots are provided as a reference in the `assets/screenshots` folder.
 

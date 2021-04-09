@@ -9,24 +9,27 @@ body {
 
 @keyframes backgroundColorPalette {
   0% {
-    background: #04b7c6;
+    background: #dae0e8;
 	}
 	25% {
-    background: #017995;
+    background: #73716e;
 	}
 	50% {
-    background: #01335c;
+    background: #4e4d48;
 	}
 	75% {
-    background: #39b3e6;
+    background: #73716e;
 	}
 	100% {
-    background: #9320c6;
+    background: #464441;
 	}
 }
 
 body {
-  background-image: url("../assets/code background.jpg");
+  background-image: url("../assets/websimple.jpg");
+  background-repeat:repeat-y; 
+  background-repeat:round;
+  background-position:unset;
 } 
 
 .navbar-dark {
