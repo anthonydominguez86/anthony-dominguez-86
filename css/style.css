@@ -10,23 +10,23 @@ body {
 @keyframes backgroundColorPalette {
   0% {
     background: #dae0e8;
-	}
-	25% {
-    background: #73716e;
-	}
-	50% {
-    background: #4e4d48;
-	}
-	75% {
-    background: #73716e;
-	}
-	100% {
-    background: #464441;
-	}
+    }
+    25% {
+    background: #baeffe;
+    }
+    50% {
+    background: #e7f9fd;
+    }
+    75% {
+    background: #023ad2;
+    }
+    100% {
+    background: #51a6fc;
+    }
 }
 
 body {
-  background-image: url("../assets/websimple.jpg");
+  background-image: url("../assets/bluebackground.jpg");
   background-repeat:repeat-y; 
   background-repeat:round;
   background-position:unset;
