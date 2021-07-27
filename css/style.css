@@ -54,6 +54,11 @@ form {
   width: 600px;
   background-color:white;
 }
+
+.nav-link {
+color: black 
+}
+
 h1 {
   color: black;
   padding: 10px;    
